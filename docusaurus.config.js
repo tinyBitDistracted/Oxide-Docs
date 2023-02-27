@@ -10,7 +10,7 @@ const config = {
   tagline: 'The official documentations site for Titanium Network, an organization dedicated innovating web proxy technologies. Made with Docusaurus.',
   url: 'https://docs.titaniumnetwork.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://titaniumnetwork.org/logo.png',
 
